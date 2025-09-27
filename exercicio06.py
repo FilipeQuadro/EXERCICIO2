@@ -1,0 +1,10 @@
+nome = input("Nome: ")
+idade = input("Idade: ")
+endereco = input("Endereço: ")
+profissao = input("Profissão: ")
+
+print("\nCadastro:")
+print(f"Nome: {nome}")
+print(f"Idade: {idade}")
+print(f"Endereço: {endereco}")
+print(f"Profissão: {profissao}")
